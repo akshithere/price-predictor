@@ -80,7 +80,7 @@ export function CarPredictionForm({ onSubmit }: CarPredictionFormProps) {
       setIsFetchingCategories(true);
       setError(null);
       
-      const response = await fetch('http://localhost:8000/categories');
+      const response = await fetch('https://price-predictor-sl4k.onrender.com/categories');
       console.log('response is: ', response);
       if (!response.ok) {
         const errorData = await response.json().catch(() => ({}));
@@ -212,7 +212,7 @@ export function CarPredictionForm({ onSubmit }: CarPredictionFormProps) {
     setError(null);
 
     try {
-      const response = await fetch('http://localhost:8000/predict', {
+      const response = await fetch('https://price-predictor-sl4k.onrender.com/predict', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

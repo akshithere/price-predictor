@@ -1,0 +1,1308 @@
+{
+  "company": [
+    "Audi",
+    "BMW",
+    "Chevrolet",
+    "Datsun",
+    "Fiat",
+    "Force",
+    "Ford",
+    "Hindustan",
+    "Honda",
+    "Hyundai",
+    "Jaguar",
+    "Jeep",
+    "Land",
+    "Mahindra",
+    "Maruti",
+    "Mercedes",
+    "Mini",
+    "Mitsubishi",
+    "Nissan",
+    "Renault",
+    "Skoda",
+    "Tata",
+    "Toyota",
+    "Volkswagen",
+    "Volvo"
+  ],
+  "model": [
+    "Audi A3 Cabriolet",
+    "Audi A4 1.8",
+    "Audi A4 2.0",
+    "Audi A6 2.0",
+    "Audi A8",
+    "Audi Q3 2.0",
+    "Audi Q5 2.0",
+    "Audi Q7",
+    "BMW 3 Series",
+    "BMW 5 Series",
+    "BMW 7 Series",
+    "BMW X1",
+    "BMW X1 sDrive20d",
+    "BMW X1 xDrive20d",
+    "Chevrolet Beat",
+    "Chevrolet Beat Diesel",
+    "Chevrolet Beat LS",
+    "Chevrolet Beat LT",
+    "Chevrolet Beat PS",
+    "Chevrolet Cruze LTZ",
+    "Chevrolet Enjoy",
+    "Chevrolet Enjoy 1.4",
+    "Chevrolet Sail 1.2",
+    "Chevrolet Sail UVA",
+    "Chevrolet Spark",
+    "Chevrolet Spark 1.0",
+    "Chevrolet Spark LS",
+    "Chevrolet Spark LT",
+    "Chevrolet Tavera LS",
+    "Chevrolet Tavera Neo",
+    "Datsun GO T",
+    "Datsun Go Plus",
+    "Datsun Redi GO",
+    "Fiat Linea Emotion",
+    "Fiat Petra ELX",
+    "Fiat Punto Emotion",
+    "Force Motors Force",
+    "Force Motors One",
+    "Ford EcoSport",
+    "Ford EcoSport Ambiente",
+    "Ford EcoSport Titanium",
+    "Ford EcoSport Trend",
+    "Ford Endeavor 4x4",
+    "Ford Fiesta",
+    "Ford Fiesta SXi",
+    "Ford Figo",
+    "Ford Figo Diesel",
+    "Ford Figo Duratorq",
+    "Ford Figo Petrol",
+    "Ford Fusion 1.4",
+    "Ford Ikon 1.3",
+    "Ford Ikon 1.6",
+    "Hindustan Motors Ambassador",
+    "Honda Accord",
+    "Honda Amaze",
+    "Honda Amaze 1.2",
+    "Honda Amaze 1.5",
+    "Honda Brio",
+    "Honda Brio V",
+    "Honda Brio VX",
+    "Honda City",
+    "Honda City 1.5",
+    "Honda City SV",
+    "Honda City VX",
+    "Honda City ZX",
+    "Honda Jazz S",
+    "Honda Jazz VX",
+    "Honda Mobilio",
+    "Honda Mobilio S",
+    "Honda WR V",
+    "Hyundai Accent",
+    "Hyundai Accent Executive",
+    "Hyundai Accent GLE",
+    "Hyundai Accent GLX",
+    "Hyundai Creta",
+    "Hyundai Creta 1.6",
+    "Hyundai Elantra 1.8",
+    "Hyundai Elantra SX",
+    "Hyundai Elite i20",
+    "Hyundai Eon",
+    "Hyundai Eon D",
+    "Hyundai Eon Era",
+    "Hyundai Eon Magna",
+    "Hyundai Eon Sportz",
+    "Hyundai Fluidic Verna",
+    "Hyundai Getz",
+    "Hyundai Getz GLE",
+    "Hyundai Getz Prime",
+    "Hyundai Grand i10",
+    "Hyundai Santro",
+    "Hyundai Santro AE",
+    "Hyundai Santro Xing",
+    "Hyundai Sonata Transform",
+    "Hyundai Verna",
+    "Hyundai Verna 1.4",
+    "Hyundai Verna 1.6",
+    "Hyundai Verna Fluidic",
+    "Hyundai Verna Transform",
+    "Hyundai Verna VGT",
+    "Hyundai Xcent Base",
+    "Hyundai Xcent SX",
+    "Hyundai i10",
+    "Hyundai i10 Era",
+    "Hyundai i10 Magna",
+    "Hyundai i10 Sportz",
+    "Hyundai i20",
+    "Hyundai i20 Active",
+    "Hyundai i20 Asta",
+    "Hyundai i20 Magna",
+    "Hyundai i20 Select",
+    "Hyundai i20 Sportz",
+    "Jaguar XE XE",
+    "Jaguar XF 2.2",
+    "Jeep Wrangler Unlimited",
+    "Land Rover Freelander",
+    "Mahindra Bolero DI",
+    "Mahindra Bolero Power",
+    "Mahindra Bolero SLE",
+    "Mahindra Jeep CL550",
+    "Mahindra Jeep MM",
+    "Mahindra KUV100",
+    "Mahindra KUV100 K8",
+    "Mahindra Logan",
+    "Mahindra Logan Diesel",
+    "Mahindra Quanto C4",
+    "Mahindra Quanto C8",
+    "Mahindra Scorpio",
+    "Mahindra Scorpio 2.6",
+    "Mahindra Scorpio LX",
+    "Mahindra Scorpio S10",
+    "Mahindra Scorpio S4",
+    "Mahindra Scorpio SLE",
+    "Mahindra Scorpio SLX",
+    "Mahindra Scorpio VLX",
+    "Mahindra Scorpio Vlx",
+    "Mahindra Scorpio W",
+    "Mahindra TUV300 T4",
+    "Mahindra TUV300 T8",
+    "Mahindra Thar CRDe",
+    "Mahindra XUV500",
+    "Mahindra XUV500 W10",
+    "Mahindra XUV500 W6",
+    "Mahindra XUV500 W8",
+    "Mahindra Xylo D2",
+    "Mahindra Xylo E4",
+    "Mahindra Xylo E8",
+    "Maruti Suzuki 800",
+    "Maruti Suzuki A",
+    "Maruti Suzuki Alto",
+    "Maruti Suzuki Baleno",
+    "Maruti Suzuki Celerio",
+    "Maruti Suzuki Ciaz",
+    "Maruti Suzuki Dzire",
+    "Maruti Suzuki Eeco",
+    "Maruti Suzuki Ertiga",
+    "Maruti Suzuki Esteem",
+    "Maruti Suzuki Estilo",
+    "Maruti Suzuki Maruti",
+    "Maruti Suzuki Omni",
+    "Maruti Suzuki Ritz",
+    "Maruti Suzuki S",
+    "Maruti Suzuki SX4",
+    "Maruti Suzuki Stingray",
+    "Maruti Suzuki Swift",
+    "Maruti Suzuki Versa",
+    "Maruti Suzuki Vitara",
+    "Maruti Suzuki Wagon",
+    "Maruti Suzuki Zen",
+    "Mercedes Benz A",
+    "Mercedes Benz B",
+    "Mercedes Benz C",
+    "Mercedes Benz GLA",
+    "Mini Cooper S",
+    "Mitsubishi Lancer 1.8",
+    "Mitsubishi Pajero Sport",
+    "Nissan Micra XL",
+    "Nissan Micra XV",
+    "Nissan Sunny",
+    "Nissan Sunny XL",
+    "Nissan Terrano XL",
+    "Nissan X Trail",
+    "Renault Duster",
+    "Renault Duster 110",
+    "Renault Duster 110PS",
+    "Renault Duster 85",
+    "Renault Duster 85PS",
+    "Renault Duster RxL",
+    "Renault Kwid",
+    "Renault Kwid 1.0",
+    "Renault Kwid RXT",
+    "Renault Lodgy 85",
+    "Renault Scala RxL",
+    "Skoda Fabia",
+    "Skoda Fabia 1.2L",
+    "Skoda Fabia Classic",
+    "Skoda Laura",
+    "Skoda Octavia Classic",
+    "Skoda Rapid Elegance",
+    "Skoda Superb 1.8",
+    "Skoda Yeti Ambition",
+    "Tata Aria Pleasure",
+    "Tata Bolt XM",
+    "Tata Indica",
+    "Tata Indica V2",
+    "Tata Indica eV2",
+    "Tata Indigo CS",
+    "Tata Indigo LS",
+    "Tata Indigo LX",
+    "Tata Indigo Marina",
+    "Tata Indigo eCS",
+    "Tata Manza",
+    "Tata Manza Aqua",
+    "Tata Manza Aura",
+    "Tata Manza ELAN",
+    "Tata Nano",
+    "Tata Nano Cx",
+    "Tata Nano GenX",
+    "Tata Nano LX",
+    "Tata Nano Lx",
+    "Tata Sumo Gold",
+    "Tata Sumo Grande",
+    "Tata Sumo Victa",
+    "Tata Tiago Revotorq",
+    "Tata Tiago Revotron",
+    "Tata Tigor Revotron",
+    "Tata Venture EX",
+    "Tata Vista Quadrajet",
+    "Tata Zest Quadrajet",
+    "Tata Zest XE",
+    "Tata Zest XM",
+    "Toyota Corolla",
+    "Toyota Corolla Altis",
+    "Toyota Corolla H2",
+    "Toyota Etios",
+    "Toyota Etios G",
+    "Toyota Etios GD",
+    "Toyota Etios Liva",
+    "Toyota Fortuner",
+    "Toyota Fortuner 3.0",
+    "Toyota Innova 2.0",
+    "Toyota Innova 2.5",
+    "Toyota Qualis",
+    "Volkswagen Jetta Comfortline",
+    "Volkswagen Jetta Highline",
+    "Volkswagen Passat Diesel",
+    "Volkswagen Polo",
+    "Volkswagen Polo Comfortline",
+    "Volkswagen Polo Highline",
+    "Volkswagen Polo Highline1.2L",
+    "Volkswagen Polo Trendline",
+    "Volkswagen Vento Comfortline",
+    "Volkswagen Vento Highline",
+    "Volkswagen Vento Konekt",
+    "Volvo S80 Summum"
+  ],
+  "fuel_type": [
+    "Diesel",
+    "LPG",
+    "Petrol"
+  ],
+  "model_company": [
+    {
+      "name": "Audi A3 Cabriolet",
+      "company": "Audi"
+    },
+    {
+      "name": "Audi A4 1.8",
+      "company": "Audi"
+    },
+    {
+      "name": "Audi A4 2.0",
+      "company": "Audi"
+    },
+    {
+      "name": "Audi A6 2.0",
+      "company": "Audi"
+    },
+    {
+      "name": "Audi A8",
+      "company": "Audi"
+    },
+    {
+      "name": "Audi Q3 2.0",
+      "company": "Audi"
+    },
+    {
+      "name": "Audi Q5 2.0",
+      "company": "Audi"
+    },
+    {
+      "name": "Audi Q7",
+      "company": "Audi"
+    },
+    {
+      "name": "BMW 3 Series",
+      "company": "BMW"
+    },
+    {
+      "name": "BMW 5 Series",
+      "company": "BMW"
+    },
+    {
+      "name": "BMW 7 Series",
+      "company": "BMW"
+    },
+    {
+      "name": "BMW X1",
+      "company": "BMW"
+    },
+    {
+      "name": "BMW X1 sDrive20d",
+      "company": "BMW"
+    },
+    {
+      "name": "BMW X1 xDrive20d",
+      "company": "BMW"
+    },
+    {
+      "name": "Chevrolet Beat",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Beat Diesel",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Beat LS",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Beat LT",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Beat PS",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Cruze LTZ",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Enjoy",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Enjoy 1.4",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Sail 1.2",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Sail UVA",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Spark",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Spark 1.0",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Spark LS",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Spark LT",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Tavera LS",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Chevrolet Tavera Neo",
+      "company": "Chevrolet"
+    },
+    {
+      "name": "Datsun GO T",
+      "company": "Datsun"
+    },
+    {
+      "name": "Datsun Go Plus",
+      "company": "Datsun"
+    },
+    {
+      "name": "Datsun Redi GO",
+      "company": "Datsun"
+    },
+    {
+      "name": "Fiat Linea Emotion",
+      "company": "Fiat"
+    },
+    {
+      "name": "Fiat Petra ELX",
+      "company": "Fiat"
+    },
+    {
+      "name": "Fiat Punto Emotion",
+      "company": "Fiat"
+    },
+    {
+      "name": "Force Motors Force",
+      "company": "Force"
+    },
+    {
+      "name": "Force Motors One",
+      "company": "Force"
+    },
+    {
+      "name": "Ford EcoSport",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford EcoSport Ambiente",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford EcoSport Titanium",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford EcoSport Trend",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford Endeavor 4x4",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford Fiesta",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford Fiesta SXi",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford Figo",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford Figo Diesel",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford Figo Duratorq",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford Figo Petrol",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford Fusion 1.4",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford Ikon 1.3",
+      "company": "Ford"
+    },
+    {
+      "name": "Ford Ikon 1.6",
+      "company": "Ford"
+    },
+    {
+      "name": "Hindustan Motors Ambassador",
+      "company": "Hindustan"
+    },
+    {
+      "name": "Honda Accord",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda Amaze",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda Amaze 1.2",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda Amaze 1.5",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda Brio",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda Brio V",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda Brio VX",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda City",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda City 1.5",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda City SV",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda City VX",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda City ZX",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda Jazz S",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda Jazz VX",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda Mobilio",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda Mobilio S",
+      "company": "Honda"
+    },
+    {
+      "name": "Honda WR V",
+      "company": "Honda"
+    },
+    {
+      "name": "Hyundai Accent",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Accent Executive",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Accent GLE",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Accent GLX",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Creta",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Creta 1.6",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Elantra 1.8",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Elantra SX",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Elite i20",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Eon",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Eon D",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Eon Era",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Eon Magna",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Eon Sportz",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Fluidic Verna",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Getz",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Getz GLE",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Getz Prime",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Grand i10",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Santro",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Santro AE",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Santro Xing",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Sonata Transform",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Verna",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Verna 1.4",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Verna 1.6",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Verna Fluidic",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Verna Transform",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Verna VGT",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Xcent Base",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai Xcent SX",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai i10",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai i10 Era",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai i10 Magna",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai i10 Sportz",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai i20",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai i20 Active",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai i20 Asta",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai i20 Magna",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai i20 Select",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Hyundai i20 Sportz",
+      "company": "Hyundai"
+    },
+    {
+      "name": "Jaguar XE XE",
+      "company": "Jaguar"
+    },
+    {
+      "name": "Jaguar XF 2.2",
+      "company": "Jaguar"
+    },
+    {
+      "name": "Jeep Wrangler Unlimited",
+      "company": "Jeep"
+    },
+    {
+      "name": "Land Rover Freelander",
+      "company": "Land"
+    },
+    {
+      "name": "Mahindra Bolero DI",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Bolero Power",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Bolero SLE",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Jeep CL550",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Jeep MM",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra KUV100",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra KUV100 K8",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Logan",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Logan Diesel",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Quanto C4",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Quanto C8",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Scorpio",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Scorpio 2.6",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Scorpio LX",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Scorpio S10",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Scorpio S4",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Scorpio SLE",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Scorpio SLX",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Scorpio VLX",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Scorpio Vlx",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Scorpio W",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra TUV300 T4",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra TUV300 T8",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Thar CRDe",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra XUV500",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra XUV500 W10",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra XUV500 W6",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra XUV500 W8",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Xylo D2",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Xylo E4",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Mahindra Xylo E8",
+      "company": "Mahindra"
+    },
+    {
+      "name": "Maruti Suzuki 800",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki A",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Alto",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Baleno",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Celerio",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Ciaz",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Dzire",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Eeco",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Ertiga",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Esteem",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Estilo",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Maruti",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Omni",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Ritz",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki S",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki SX4",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Stingray",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Swift",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Versa",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Vitara",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Wagon",
+      "company": "Maruti"
+    },
+    {
+      "name": "Maruti Suzuki Zen",
+      "company": "Maruti"
+    },
+    {
+      "name": "Mercedes Benz A",
+      "company": "Mercedes"
+    },
+    {
+      "name": "Mercedes Benz B",
+      "company": "Mercedes"
+    },
+    {
+      "name": "Mercedes Benz C",
+      "company": "Mercedes"
+    },
+    {
+      "name": "Mercedes Benz GLA",
+      "company": "Mercedes"
+    },
+    {
+      "name": "Mini Cooper S",
+      "company": "Mini"
+    },
+    {
+      "name": "Mitsubishi Lancer 1.8",
+      "company": "Mitsubishi"
+    },
+    {
+      "name": "Mitsubishi Pajero Sport",
+      "company": "Mitsubishi"
+    },
+    {
+      "name": "Nissan Micra XL",
+      "company": "Nissan"
+    },
+    {
+      "name": "Nissan Micra XV",
+      "company": "Nissan"
+    },
+    {
+      "name": "Nissan Sunny",
+      "company": "Nissan"
+    },
+    {
+      "name": "Nissan Sunny XL",
+      "company": "Nissan"
+    },
+    {
+      "name": "Nissan Terrano XL",
+      "company": "Nissan"
+    },
+    {
+      "name": "Nissan X Trail",
+      "company": "Nissan"
+    },
+    {
+      "name": "Renault Duster",
+      "company": "Renault"
+    },
+    {
+      "name": "Renault Duster 110",
+      "company": "Renault"
+    },
+    {
+      "name": "Renault Duster 110PS",
+      "company": "Renault"
+    },
+    {
+      "name": "Renault Duster 85",
+      "company": "Renault"
+    },
+    {
+      "name": "Renault Duster 85PS",
+      "company": "Renault"
+    },
+    {
+      "name": "Renault Duster RxL",
+      "company": "Renault"
+    },
+    {
+      "name": "Renault Kwid",
+      "company": "Renault"
+    },
+    {
+      "name": "Renault Kwid 1.0",
+      "company": "Renault"
+    },
+    {
+      "name": "Renault Kwid RXT",
+      "company": "Renault"
+    },
+    {
+      "name": "Renault Lodgy 85",
+      "company": "Renault"
+    },
+    {
+      "name": "Renault Scala RxL",
+      "company": "Renault"
+    },
+    {
+      "name": "Skoda Fabia",
+      "company": "Skoda"
+    },
+    {
+      "name": "Skoda Fabia 1.2L",
+      "company": "Skoda"
+    },
+    {
+      "name": "Skoda Fabia Classic",
+      "company": "Skoda"
+    },
+    {
+      "name": "Skoda Laura",
+      "company": "Skoda"
+    },
+    {
+      "name": "Skoda Octavia Classic",
+      "company": "Skoda"
+    },
+    {
+      "name": "Skoda Rapid Elegance",
+      "company": "Skoda"
+    },
+    {
+      "name": "Skoda Superb 1.8",
+      "company": "Skoda"
+    },
+    {
+      "name": "Skoda Yeti Ambition",
+      "company": "Skoda"
+    },
+    {
+      "name": "Tata Aria Pleasure",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Bolt XM",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Indica",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Indica V2",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Indica eV2",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Indigo CS",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Indigo LS",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Indigo LX",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Indigo Marina",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Indigo eCS",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Manza",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Manza Aqua",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Manza Aura",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Manza ELAN",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Nano",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Nano Cx",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Nano GenX",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Nano LX",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Nano Lx",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Sumo Gold",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Sumo Grande",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Sumo Victa",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Tiago Revotorq",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Tiago Revotron",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Tigor Revotron",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Venture EX",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Vista Quadrajet",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Zest Quadrajet",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Zest XE",
+      "company": "Tata"
+    },
+    {
+      "name": "Tata Zest XM",
+      "company": "Tata"
+    },
+    {
+      "name": "Toyota Corolla",
+      "company": "Toyota"
+    },
+    {
+      "name": "Toyota Corolla Altis",
+      "company": "Toyota"
+    },
+    {
+      "name": "Toyota Corolla H2",
+      "company": "Toyota"
+    },
+    {
+      "name": "Toyota Etios",
+      "company": "Toyota"
+    },
+    {
+      "name": "Toyota Etios G",
+      "company": "Toyota"
+    },
+    {
+      "name": "Toyota Etios GD",
+      "company": "Toyota"
+    },
+    {
+      "name": "Toyota Etios Liva",
+      "company": "Toyota"
+    },
+    {
+      "name": "Toyota Fortuner",
+      "company": "Toyota"
+    },
+    {
+      "name": "Toyota Fortuner 3.0",
+      "company": "Toyota"
+    },
+    {
+      "name": "Toyota Innova 2.0",
+      "company": "Toyota"
+    },
+    {
+      "name": "Toyota Innova 2.5",
+      "company": "Toyota"
+    },
+    {
+      "name": "Toyota Qualis",
+      "company": "Toyota"
+    },
+    {
+      "name": "Volkswagen Jetta Comfortline",
+      "company": "Volkswagen"
+    },
+    {
+      "name": "Volkswagen Jetta Highline",
+      "company": "Volkswagen"
+    },
+    {
+      "name": "Volkswagen Passat Diesel",
+      "company": "Volkswagen"
+    },
+    {
+      "name": "Volkswagen Polo",
+      "company": "Volkswagen"
+    },
+    {
+      "name": "Volkswagen Polo Comfortline",
+      "company": "Volkswagen"
+    },
+    {
+      "name": "Volkswagen Polo Highline",
+      "company": "Volkswagen"
+    },
+    {
+      "name": "Volkswagen Polo Highline1.2L",
+      "company": "Volkswagen"
+    },
+    {
+      "name": "Volkswagen Polo Trendline",
+      "company": "Volkswagen"
+    },
+    {
+      "name": "Volkswagen Vento Comfortline",
+      "company": "Volkswagen"
+    },
+    {
+      "name": "Volkswagen Vento Highline",
+      "company": "Volkswagen"
+    },
+    {
+      "name": "Volkswagen Vento Konekt",
+      "company": "Volkswagen"
+    },
+    {
+      "name": "Volvo S80 Summum",
+      "company": "Volvo"
+    }
+  ]
+}
